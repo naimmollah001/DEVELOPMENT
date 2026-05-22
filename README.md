@@ -1,4 +1,4 @@
-# Client Organization Platform
+# Organization Platform
 
 Enterprise platform for scalable client application management.
 
